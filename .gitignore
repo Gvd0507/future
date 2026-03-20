@@ -1,0 +1,6 @@
+
+data/*.duckdb
+data/exports/*.csv
+
+__pycache__/
+*.pyc
